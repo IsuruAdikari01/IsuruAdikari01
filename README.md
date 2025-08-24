@@ -6,12 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isuruadikari01&label=Profile%20views&color=0e75b6&style=flat" alt="isuruadikari01" />
+  <img src="https://komarev.com/ghpvc/?username=isuruadikari01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/isuruadikari01?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" />
 
 💡 I’m a **creative and detail-oriented frontend developer** passionate about building seamless user interfaces and meaningful web experiences.  
 🌱 Currently learning: **Java**, **Node.js**  
@@ -22,19 +25,35 @@
 
 ### 🔧 What I Do
 
-- 🎨 Build beautiful, responsive UIs
-- ⚙️ Work with APIs and backend services
-- 🧪 Test and optimize code
-- 📚 Learn and adapt with new technologies
+- 🎨 Build beautiful, responsive UIs  
+- ⚙️ Work with APIs and backend services  
+- 🧪 Test and optimize code  
+- 📚 Learn and adapt with new technologies  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ### 🔥 Currently Exploring
 
-- 🧠 TypeScript
-- 🕸️ Web animations (Framer Motion / GSAP)
-- 🧩 Data structures & algorithms
-- ☁️ Cloud basics (Firebase / Vercel)
+- 🧠 TypeScript  
+- 🕸️ Web animations (Framer Motion / GSAP)  
+- 🧩 Data structures & algorithms  
+- ☁️ Cloud basics (Firebase / Vercel)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
+</p>
 
 ---
 
@@ -50,9 +69,20 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Master full-stack development
-- ✅ Reach 1k+ YouTube subscribers
-- ✅ Start freelancing or internships
-- ✅ Contribute to open-source
+- ✅ Master full-stack development  
+- ✅ Reach 1k+ YouTube subscribers  
+- ✅ Start freelancing or internships  
+- ✅ Contribute to open-source  
 
-  <h3 align="center">🔥 Keep Learning. Keep Building. 🚀</h3>
+---
+
+<h3 align="center" style="font-weight:bold; color:#ff4500;">
+  ✨🔥 ~ Keep Learning. Keep Building. ~ 🚀✨
+</h3>
+
+
+
+
+
+
+>
